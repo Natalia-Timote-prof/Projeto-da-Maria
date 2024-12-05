@@ -9,6 +9,10 @@ H1, h2 {
   color:#ADD8E6;
 }
 
+nav {
+  padding: 16px;
+}
+
 p {
   color: black;
 }
