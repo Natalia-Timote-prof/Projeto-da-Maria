@@ -5,12 +5,13 @@ body {
   font-family: "Playwrite CU", cursive
 }
 
-H1, h2 {
+h1, h2 {
   color:#ADD8E6;
 }
 
 nav {
-  padding: 16px;
+  display: flex;
+  gap: 16px;
 }
 
 p {
@@ -34,7 +35,7 @@ h1{
 button{
   text-docoration: none;
   color: black;
-  backgrond- color:#A020F0;
+  background-color: #A020F0;
   border-adius: 8px;
   padding:16px;
 }
