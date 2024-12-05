@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&display=swap');
+
+body {
+  background-color: #FDFD96;
+  font-family: "Playwrite CU", cursive
+}
+
+H1, h2 {
+  color:#ADD8E6;
+}
+
+p {
+  color: black;
+}
+img{
+  height: 260px;
+  width: 360px
+}
+
+h1{
+  font-size: 20px;
+}
+
+p {
+  font-size: 20px;
+}
+h1{
+  font-size: 20px;
+}
+button{
+  text-docoration: none;
+  color: black;
+  backgrond- color:#A020F0;
+  border-adius: 8px;
+  padding:16px;
+}
